@@ -12,8 +12,8 @@ dependencies:
     specifier: ^5.12.1
     version: 5.12.1(prisma@5.12.1)
   ethers:
-    specifier: ^6.12.0
-    version: 6.12.0
+    specifier: ^6.12.2
+    version: 6.12.2
 
 devDependencies:
   '@types/node':
@@ -707,8 +707,8 @@ packages:
     engines: {node: '>=0.8.0'}
     dev: false
 
-  /ethers@6.12.0:
-    resolution: {integrity: sha512-zL5NlOTjML239gIvtVJuaSk0N9GQLi1Hom3ZWUszE5lDTQE/IVB62mrPkQ2W1bGcZwVGSLaetQbWNQSvI4rGDQ==}
+  /ethers@6.12.2:
+    resolution: {integrity: sha512-MNfR2kzZyNF8bRNDSmjM+rT1+yqCgYNqfrXyNnpiNId2MQPiAOOr/7lrgdrdwoBxzKPSnSYZaGb5lcNyvzhuvA==}
     engines: {node: '>=14.0.0'}
     dependencies:
       '@adraffy/ens-normalize': 1.10.1
