@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@dotenvx/dotenvx':
-        specifier: ^1.12.1
-        version: 1.12.1
+        specifier: ^1.14.0
+        version: 1.14.0
       '@prisma/client':
         specifier: ^5.19.0
         version: 5.19.0(prisma@5.19.0)
@@ -36,8 +36,8 @@ packages:
   '@adraffy/ens-normalize@1.10.1':
     resolution: {integrity: sha512-96Z2IP3mYmF1Xg2cDm8f1gWGf/HUVedQ3FMifV4kG/PQ4yEP51xDtRAEfhVNt5f/uzpNkZHwWQuUcu6D6K+Ekw==}
 
-  '@dotenvx/dotenvx@1.12.1':
-    resolution: {integrity: sha512-qdTBiLDMXUxrZf91o4MQTiLrAWIwwnSu44gQUSVSysXXVSoSckUmjyjoTb+tsn0GgqZCttZZp8XYSa09IC399w==}
+  '@dotenvx/dotenvx@1.14.0':
+    resolution: {integrity: sha512-ujWncblsqokvW8w6tCW35hjwlD3FHySMdrC5OPMYqfcGR96B/H6xK9xSu5F/SyZ8uk8USoPZynsXxB24IGvfmQ==}
     hasBin: true
 
   '@esbuild/aix-ppc64@0.23.0':
@@ -394,7 +394,7 @@ snapshots:
 
   '@adraffy/ens-normalize@1.10.1': {}
 
-  '@dotenvx/dotenvx@1.12.1':
+  '@dotenvx/dotenvx@1.14.0':
     dependencies:
       commander: 11.1.0
       dotenv: 16.4.5
